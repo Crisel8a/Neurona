@@ -17,12 +17,7 @@
     </a>
   <a href="#">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" />
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
